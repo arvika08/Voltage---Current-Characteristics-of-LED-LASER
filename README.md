@@ -27,28 +27,35 @@ Key points:
 
 ---
 ## Circuit diagram
-<img width="1839" height="1404" alt="image" src="https://github.com/user-attachments/assets/59e67420-5669-4b13-a236-6bbe95698de7" />
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/59e67420-5669-4b13-a236-6bbe95698de7" width="700">
+</p>
 
-<img width="1600" height="881" alt="image" src="https://github.com/user-attachments/assets/700d7f03-9e20-4c1e-8a33-0b6b89e33085" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/700d7f03-9e20-4c1e-8a33-0b6b89e33085" width="750">
+</p>
 
-<img width="1355" height="1430" alt="image" src="https://github.com/user-attachments/assets/83a4333e-5ab3-42e1-913a-cce2b6c0864e" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/83a4333e-5ab3-42e1-913a-cce2b6c0864e" width="450">
+</p>
 
 ---
 
 ## TABULATION
 
-| Forward Voltage \(V_f\) (V) | Forward Current \(I_f\) (mA) |
-|-----------------------------|------------------------------|
-|                             |                              |
-|                             |                              |
-|                             |                              |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ef58516a-6289-4e81-9977-fe22090a3e9a" width="400">
+</p>
 
 ---
 
 ## MODEL GRAPH
-*(Insert IV characteristics graph and optical power plots here)*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/127bd6f9-d7cb-48ec-bc40-6a05b3f8d0e3" width="320">
+  <img src="https://github.com/user-attachments/assets/2f10a571-94ea-4ef7-a0ec-e2c6c16af058" width="320">
+</p>
+
 
 ---
 
